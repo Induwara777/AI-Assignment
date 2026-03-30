@@ -9,7 +9,7 @@ Multivariate Time-Series  Prediction Using Deep Learning
 - reports/
 
 ## Description
-This project uses machine learning (LSTM) for prediction.
+Multivariate Time-Series Prediction Using Deep Learning
 
 ## How to Run
 1. Install requirements:
